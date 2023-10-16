@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/eapple/.gradle/daemon/8.0/com.example.open_cv_android.app-mergeDebugResources-30:/layout/activity_image_processing.xml",
+        "source": "/Users/eapple/.gradle/daemon/8.0/com.example.open_cv_android.app-main-33:/layout/activity_image_processing.xml"
+    },
+    {
+        "merged": "com.example.open_cv_android.app-mergeDebugResources-30:/layout/bottom_sheet_dialog.xml",
+        "source": "com.example.open_cv_android.app-main-33:/layout/bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "/Users/eapple/.gradle/daemon/8.0/com.example.open_cv_android.app-mergeDebugResources-30:/layout/item_menu_layout.xml",
+        "source": "/Users/eapple/.gradle/daemon/8.0/com.example.open_cv_android.app-main-33:/layout/item_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/eapple/.gradle/daemon/8.0/com.example.open_cv_android.app-mergeDebugResources-30:/layout/activity_main.xml",
+        "source": "/Users/eapple/.gradle/daemon/8.0/com.example.open_cv_android.app-main-33:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/eapple/.gradle/daemon/8.0/com.example.open_cv_android.app-mergeDebugResources-30:/layout/bottom_sheet_dialog.xml",
+        "source": "/Users/eapple/.gradle/daemon/8.0/com.example.open_cv_android.app-main-33:/layout/bottom_sheet_dialog.xml"
+    }
+]

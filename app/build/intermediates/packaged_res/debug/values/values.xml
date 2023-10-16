@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">Open_CV_Android</string>
+    <string name="cancel">Cancel</string>
+    <string name="cartoonEffect">Cartoon Effect</string>
+    <string name="gray">Gray</string>
+    <string name="hough">Hough</string>
+    <string name="imageDimension">Image Dimension</string>
+    <string name="imageHeight">Image Height</string>
+    <string name="imageWidth">Image Width</string>
+    <string name="median">Median</string>
+    <string name="phoneGallery">Phone Gallery</string>
+    <string name="resize">Resize</string>
+    <string name="save">Save Image</string>
+    <string name="share">Share Image</string>
+    <string name="takePhoto">Take Photo</string>
+    <string name="thresholding">Thresholding</string>
+    <style name="Base.Theme.Open_CV_Android" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.Open_CV_Android" parent="Base.Theme.Open_CV_Android"/>
+</resources>
