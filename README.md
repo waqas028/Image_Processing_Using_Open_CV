@@ -3,7 +3,7 @@ Image Processing using Open Cv in Kotlin Android
 
 Image Processing Using OpenCV in Kotlin Android Using MVVM Structure. This project provides an example of how to use OpenCV to process images on Android using Kotlin and the MVVM structure.
 
-#Usage
+# Usage
 
 To use the project, simply open the app and select an image to process. The app will then apply a variety of image processing effects to the image, such as sharpening, blurring, and edge detection.
 
