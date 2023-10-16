@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Open_CV_Android</string>
+    <string name="save">Save Image</string>
+    <string name="share">Share Image</string>
+    <string name="takePhoto">Take Photo</string>
+    <string name="phoneGallery">Phone Gallery</string>
+    <string name="cancel">Cancel</string>
+    <string name="resize">Resize</string>
+    <string name="imageDimension">Image Dimension</string>
+    <string name="imageHeight">Image Height</string>
+    <string name="imageWidth">Image Width</string>
+    <!--Filter Name-->
+    <string name="cartoonEffect">Cartoon Effect</string>
+    <string name="thresholding">Thresholding</string>
+    <string name="gray">Gray</string>
+    <string name="hough">Hough</string>
+    <string name="median">Median</string>
+</resources>
